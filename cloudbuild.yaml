@@ -23,7 +23,7 @@ substitutions:
   _GITREPO: bj-cloud-build
   _PROJID: bj-config-connect
   _GCRREPO: simple-server
-  _VERSION: v1.0
+  _VERSION: v2.0
 
   _DEPLOYMENTNAME: simple-server-deployment
   _CONTAINERNAME: simple-server
